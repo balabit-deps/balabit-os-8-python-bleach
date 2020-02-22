@@ -1,0 +1,2 @@
+version=3
+https://github.com/jsocol/bleach/tags .*/v?(\d[\d\.]+)\.tar\.gz
